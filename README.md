@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Medha Trivedi!
 
 ## 👀 About Me
-I'm a highly skilled data analyst with over 7 years of experience in the IT sector. My expertise lies in transforming complex datasets into actionable intelligence to drive strategic decision-making. I have a strong foundation in data analysis, with more than 5 years of hands-on experience across various domains including finance, home building, and sales.
+I'm a highly skilled data analyst with over 8 years of experience in the IT sector. My expertise lies in transforming complex datasets into actionable intelligence to drive strategic decision-making. I have a strong foundation in data analysis, with more than 5 years of hands-on experience across various domains including finance, home building, and sales.
 
 ## 🌱 Skills
 - **Tools:** Power BI, SQL, Advanced Excel, Google Analytics, SSIS, SSRS, ETL, Data Warehousing
