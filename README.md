@@ -5,7 +5,7 @@ I'm a highly skilled data analyst with over 8 years of experience in the IT sect
 
 ## 🌱 Skills
 - **Tools:** Power BI, SQL, Advanced Excel, Google Analytics, SSIS, SSRS, ETL, Data Warehousing
-- **Domains:** Finance, Home Building, Sales
+- **Domains:** Finance, Sales, Marketing, Supply Chain, Customer Management, Operations, Customer Sentiment & Feedback
 - **Expertise:** Data Analysis, Data Transformation, Strategic Decision-Making
 
 ## 💼 Portfolio
